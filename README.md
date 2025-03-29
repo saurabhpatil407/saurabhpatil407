@@ -4,23 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer (.Net Developer)
 ------------------------
 
-I'm a 
-<svg width="100%" height="100">
-  <defs>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-  <text x="10" y="50" font-size="40px" fill="cyan" filter="url(#glow)">
-   Software
-  </text>
-</svg>
-
-with <b>1.5 years </b>of experience specializing in .NET development. I have a strong passion for building scalable, high-performance applications and continuously improving my skills.<br/>
+I'm a <b>Software Engineer</b> with <b>1.5 years </b>of experience specializing in .NET development. I have a strong passion for building scalable, high-performance applications and continuously improving my skills.<br/>
 
 💻 .NET Developer | 🚀 Open-Source Enthusiast | 📚 Lifelong Learner
 
