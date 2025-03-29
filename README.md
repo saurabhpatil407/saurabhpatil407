@@ -4,14 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer (.Net Developer)
 ------------------------
 
-I'm a <b class="glow-text">Software Engineer</b> with <b>1.5 years </b>of experience specializing in .NET development. I have a strong passion for building scalable, high-performance applications and continuously improving my skills.<br/>
-<style>
-  .glow-text {
-  color: #0ff;
-  text-shadow: 0 0 5px #0ff, 0 0 10px #0ff, 0 0 20px #00f, 0 0 40px #00f;
-}
+I'm a <b style="color: white; text-shadow: 0 0 10px cyan, 0 0 20px cyan, 0 0 30px cyan;">Software Engineer</b> with <b>1.5 years </b>of experience specializing in .NET development. I have a strong passion for building scalable, high-performance applications and continuously improving my skills.<br/>
 
-</style>
 💻 .NET Developer | 🚀 Open-Source Enthusiast | 📚 Lifelong Learner
 
 * 🌍  I'm based in Pune, Maharashtra
