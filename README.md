@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer (.Net Developer)
 ------------------------
 
-<font color="red">This is red text</font>
 I'm a <b>Software Engineer</b> with <b>1.5 years </b>of experience specializing in .NET development. I have a strong passion for building scalable, high-performance applications and continuously improving my skills.<br/>
 
 💻 .NET Developer | 🚀 Open-Source Enthusiast | 📚 Lifelong Learner
