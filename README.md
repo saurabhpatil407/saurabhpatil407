@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer (.Net Developer)
 ------------------------
 
-I'm a <b style="color: white; text-shadow: 0 0 10px cyan, 0 0 20px cyan, 0 0 30px cyan;">Software Engineer</b> with <b>1.5 years </b>of experience specializing in .NET development. I have a strong passion for building scalable, high-performance applications and continuously improving my skills.<br/>
+I'm a <b style="color: red;">Software Engineer</b> with <b>1.5 years </b>of experience specializing in .NET development. I have a strong passion for building scalable, high-performance applications and continuously improving my skills.<br/>
 
 💻 .NET Developer | 🚀 Open-Source Enthusiast | 📚 Lifelong Learner
 
