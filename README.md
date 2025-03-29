@@ -5,12 +5,21 @@ Software Engineer (.Net Developer)
 ------------------------
 
 I'm a 
-<svg width="100%" height="50">
-  <text x="10" y="40" font-size="40" fill="white" 
-        style="text-shadow: 0 0 10px cyan, 0 0 20px cyan, 0 0 30px cyan;">
-  Software Engineer
+<svg width="100%" height="100">
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <text x="10" y="50" font-size="40px" fill="cyan" filter="url(#glow)">
+   Software
   </text>
 </svg>
+
 with <b>1.5 years </b>of experience specializing in .NET development. I have a strong passion for building scalable, high-performance applications and continuously improving my skills.<br/>
 
 💻 .NET Developer | 🚀 Open-Source Enthusiast | 📚 Lifelong Learner
