@@ -7,9 +7,8 @@ Software Engineer (.Net Developer)
 I'm a <b class="glow-text">Software Engineer</b> with <b>1.5 years </b>of experience specializing in .NET development. I have a strong passion for building scalable, high-performance applications and continuously improving my skills.<br/>
 <style>
   .glow-text {
-  font-size: 2rem;
-  color: white;
-  text-shadow: 0 0 10px #0ff, 0 0 20px #0ff, 0 0 30px #0ff;
+  color: #0ff;
+  text-shadow: 0 0 5px #0ff, 0 0 10px #0ff, 0 0 20px #00f, 0 0 40px #00f;
 }
 
 </style>
